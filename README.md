@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Test
+大学生创新训练计划
 =======
 # 基于Android的手机摄像头文字识别应用
 This is the source code of ocr app
